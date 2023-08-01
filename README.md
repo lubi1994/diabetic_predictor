@@ -19,11 +19,11 @@ The model uses the algorithms: Logistic Regression, Random Forest Classifier . T
 
 The application is built using flask
 To, run, you first need to run as follows
-app.py
-__init__.py
-brain.py
-routes.py
-model.pkl
-model.ipynb
+app.py ,
+__init__.py ,
+brain.py ,
+routes.py ,
+model.pkl ,
+model.ipynb ,
 Now, the model.pkl is already pre trained to have a good enough accuracy. 
 If you want to train the model yourself, you can use the model.ipynb file and output to model.pkl. The application will automatically use the new model.
